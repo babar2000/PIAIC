@@ -1,3 +1,3 @@
 "use strict";
-var a = ("Hello Zain, Would you like to learn typesrcipt");
-console.log(a);
+let zain = "Zain";
+console.log('Hello,${Zain} ! let me tell you about typescript');

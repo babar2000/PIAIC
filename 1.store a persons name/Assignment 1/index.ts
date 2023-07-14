@@ -1,2 +1,2 @@
-var a = ("Hello Zain, Would you like to learn typesrcipt");
-console.log(a);
+let zain:string = "Zain";
+console.log('Hello,${Zain} ! let me tell you about typescript');
